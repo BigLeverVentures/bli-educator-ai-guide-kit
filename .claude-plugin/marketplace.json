@@ -1,0 +1,19 @@
+{
+  "description": "Two free teaching guides: coaching and personalized curriculum design. Version 1; feedback welcome.",
+  "name": "big-lever-educator-kit",
+  "owner": {
+    "name": "Big Lever Institute"
+  },
+  "plugins": [
+    {
+      "description": "Use for lesson help, research, explanations and critique of learner work. Help directly without requiring an intake or learning plan.",
+      "name": "big-lever-guide-me",
+      "source": "./packages/big-lever-guide-me"
+    },
+    {
+      "description": "Use to choose or revise a small personalized learning path from the supplied curriculum, explain the fit, and prepare a coaching handoff.",
+      "name": "big-lever-learning-path",
+      "source": "./packages/big-lever-learning-path"
+    }
+  ]
+}

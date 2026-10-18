@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Big Lever Institute"
+  },
+  "description": "Use to choose or revise a small personalized learning path from the supplied curriculum, explain the fit, and prepare a coaching handoff.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "Interactive",
+          "Read"
+        ],
+        "category": "Education",
+        "defaultPrompt": [
+          "Help me choose a learning path for [goal].",
+          "Give me one useful next action and a short Guide Me handoff. My goal is [goal]."
+        ],
+        "developerName": "Big Lever Institute",
+        "displayName": "Big Lever Institute — Your Learning Path",
+        "longDescription": "Version 1. Use to choose or revise a small personalized learning path from the supplied curriculum, explain the fit, and prepare a coaching handoff.",
+        "shortDescription": "Your personal learning path"
+      }
+    }
+  },
+  "homepage": "https://bigleverinstitute.org/guides",
+  "license": "SEE LICENSE.md",
+  "name": "big-lever-learning-path",
+  "version": "1.0.2"
+}

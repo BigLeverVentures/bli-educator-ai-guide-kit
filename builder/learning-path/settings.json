@@ -1,0 +1,20 @@
+{
+  "capabilities": {
+    "code_execution": "optional; only for tasks that need it",
+    "external_actions": "none",
+    "file_reading": "needed for bundled curriculum; otherwise paste relevant text",
+    "image_generation": "not required",
+    "web_research": "optional; verify sources when available"
+  },
+  "conversation_starters": [
+    "Help me choose a learning path for [goal].",
+    "Give me one useful next action and a short Guide Me handoff. My goal is [goal]."
+  ],
+  "description": "Use to choose or revise a small personalized learning path from the supplied curriculum, explain the fit, and prepare a coaching handoff.",
+  "name": "Big Lever Institute — Your Learning Path",
+  "platform_status": {
+    "chatgpt": "authoring/package files; public distribution requires provider eligibility and review",
+    "claude": "repository package; new kit needs a native account smoke test",
+    "gemini": "experimental; not qualified for dependable student coaching"
+  }
+}

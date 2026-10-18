@@ -1,0 +1,9 @@
+{
+  "author": {
+    "name": "Big Lever Institute"
+  },
+  "description": "Use to choose or revise a small personalized learning path from the supplied curriculum, explain the fit, and prepare a coaching handoff.",
+  "homepage": "https://bigleverinstitute.org/guides",
+  "name": "big-lever-learning-path",
+  "version": "1.0.2"
+}

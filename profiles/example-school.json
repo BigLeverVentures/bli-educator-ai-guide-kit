@@ -1,0 +1,18 @@
+{
+  "organization": "Example Community Learning Center",
+  "slug": "example-school",
+  "version": "1.0.0",
+  "snapshot_date": "2026-10-17",
+  "homepage": "https://example.org/learning",
+  "privacy_url": "",
+  "terms_url": "",
+  "feedback_email": "",
+  "curriculum_dir": "curriculum/example-school",
+  "reference_files": [
+    "catalog.json",
+    "lessons.md",
+    "LICENSE.md"
+  ],
+  "curriculum_index": "catalog.json",
+  "future_courses": []
+}

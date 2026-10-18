@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Big Lever Institute"
+  },
+  "description": "Use for lesson help, research, explanations and critique of learner work. Help directly without requiring an intake or learning plan.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "Interactive",
+          "Read"
+        ],
+        "category": "Education",
+        "defaultPrompt": [
+          "Help me with this task: [describe it].",
+          "Review my draft before changing it: [paste a redacted draft and its purpose]."
+        ],
+        "developerName": "Big Lever Institute",
+        "displayName": "Big Lever Institute — Guide Me",
+        "longDescription": "Version 1. Use for lesson help, research, explanations and critique of learner work. Help directly without requiring an intake or learning plan.",
+        "shortDescription": "Coach and research partner"
+      }
+    }
+  },
+  "homepage": "https://bigleverinstitute.org/guides",
+  "license": "SEE LICENSE.md",
+  "name": "big-lever-guide-me",
+  "version": "1.0.2"
+}

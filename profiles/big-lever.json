@@ -1,0 +1,24 @@
+{
+  "organization": "Big Lever Institute",
+  "slug": "big-lever",
+  "version": "1.0.2",
+  "snapshot_date": "2026-10-17",
+  "homepage": "https://bigleverinstitute.org/guides",
+  "privacy_url": "https://bigleverinstitute.org/privacy",
+  "terms_url": "https://bigleverinstitute.org/programterms",
+  "feedback_email": "help@bigleverinstitute.org",
+  "curriculum_dir": "curriculum/big-lever",
+  "reference_files": [
+    "catalog.json",
+    "lessons.md",
+    "pedagogy.md",
+    "LICENSE.md",
+    "upstream.json"
+  ],
+  "curriculum_index": "catalog.json",
+  "future_courses": [
+    "New Venture Planning",
+    "Prod-ject Managing",
+    "Vibe Coding for Shippers"
+  ]
+}

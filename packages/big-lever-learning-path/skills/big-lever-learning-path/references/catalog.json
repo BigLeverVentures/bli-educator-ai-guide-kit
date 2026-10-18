@@ -1,0 +1,460 @@
+{
+  "resources": [
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-01",
+      "source_heading": "Resource: basics/basics-01",
+      "title": "01 — What AI Can Do for You",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-01.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-02",
+      "source_heading": "Resource: basics/basics-02",
+      "title": "02 — Choose an Assistant and Open a Chat",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-02.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-03",
+      "source_heading": "Resource: basics/basics-03",
+      "title": "03 — Get Your First Useful Result",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-03.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-04",
+      "source_heading": "Resource: basics/basics-04",
+      "title": "04 — Ask for What You Want",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-04.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-05",
+      "source_heading": "Resource: basics/basics-05",
+      "title": "05 — Work Through a Problem with AI",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-05.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-06",
+      "source_heading": "Resource: basics/basics-06",
+      "title": "06 — Give AI Text or a File to Work From",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-06.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-07",
+      "source_heading": "Resource: basics/basics-07",
+      "title": "07 — Tell the Assistant How to Help You",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-07.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-08",
+      "source_heading": "Resource: basics/basics-08",
+      "title": "08 — Set Up a Project for Continuing Work",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-08.html"
+    },
+    {
+      "group": "AI Basics",
+      "id": "basics/basics-09",
+      "source_heading": "Resource: basics/basics-09",
+      "title": "09 — Check Your Work and Choose What Comes Next",
+      "url": "https://exercises.bigleverinstitute.org/basics/basics-09.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/ad-copy-builder",
+      "source_heading": "Resource: exercises/ad-copy-builder",
+      "title": "Ex14 — Ad Copy Builder",
+      "url": "https://exercises.bigleverinstitute.org/exercises/ad-copy-builder.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/board-of-advisors",
+      "source_heading": "Resource: exercises/board-of-advisors",
+      "title": "Ex10 — Board of Advisors",
+      "url": "https://exercises.bigleverinstitute.org/exercises/board-of-advisors.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/build-a-personal-tool",
+      "source_heading": "Resource: exercises/build-a-personal-tool",
+      "title": "Ex20 — Build a Personal Tool",
+      "url": "https://exercises.bigleverinstitute.org/exercises/build-a-personal-tool.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/codebase-explainer",
+      "source_heading": "Resource: exercises/codebase-explainer",
+      "title": "Ex21 — Codebase Explainer",
+      "url": "https://exercises.bigleverinstitute.org/exercises/codebase-explainer.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/competitive-landscape-map",
+      "source_heading": "Resource: exercises/competitive-landscape-map",
+      "title": "Ex13 — Competitive Landscape Map",
+      "url": "https://exercises.bigleverinstitute.org/exercises/competitive-landscape-map.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/customer-archetype-builder",
+      "source_heading": "Resource: exercises/customer-archetype-builder",
+      "title": "Customer Archetype Builder",
+      "url": "https://exercises.bigleverinstitute.org/exercises/customer-archetype-builder.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/customer-discovery-questions",
+      "source_heading": "Resource: exercises/customer-discovery-questions",
+      "title": "Customer Discovery Questions",
+      "url": "https://exercises.bigleverinstitute.org/exercises/customer-discovery-questions.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/customer-field-notes-day-in-life",
+      "source_heading": "Resource: exercises/customer-field-notes-day-in-life",
+      "title": "Customer Field Notes",
+      "url": "https://exercises.bigleverinstitute.org/exercises/customer-field-notes-day-in-life.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/decision-matrix-builder",
+      "source_heading": "Resource: exercises/decision-matrix-builder",
+      "title": "Ex06 — Decision Matrix Builder",
+      "url": "https://exercises.bigleverinstitute.org/exercises/decision-matrix-builder.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/decision-record",
+      "source_heading": "Resource: exercises/decision-record",
+      "title": "Ex23 — Decision Record",
+      "url": "https://exercises.bigleverinstitute.org/exercises/decision-record.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/email-template-library",
+      "source_heading": "Resource: exercises/email-template-library",
+      "title": "Ex08 — Email Template Library",
+      "url": "https://exercises.bigleverinstitute.org/exercises/email-template-library.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/executive-briefing",
+      "source_heading": "Resource: exercises/executive-briefing",
+      "title": "Ex16 — Executive Briefing",
+      "url": "https://exercises.bigleverinstitute.org/exercises/executive-briefing.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/finance-analyzer",
+      "source_heading": "Resource: exercises/finance-analyzer",
+      "title": "Ex05 — Finance Analyzer",
+      "url": "https://exercises.bigleverinstitute.org/exercises/finance-analyzer.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/first-pull-request",
+      "source_heading": "Resource: exercises/first-pull-request",
+      "title": "Ex19 — First Pull Request",
+      "url": "https://exercises.bigleverinstitute.org/exercises/first-pull-request.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/first-repository-and-commit",
+      "source_heading": "Resource: exercises/first-repository-and-commit",
+      "title": "Ex18 — First Repository and Commit",
+      "url": "https://exercises.bigleverinstitute.org/exercises/first-repository-and-commit.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/industry-researcher",
+      "source_heading": "Resource: exercises/industry-researcher",
+      "title": "Ex07 — Industry Researcher",
+      "url": "https://exercises.bigleverinstitute.org/exercises/industry-researcher.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/interview-coach",
+      "source_heading": "Resource: exercises/interview-coach",
+      "title": "Ex02 — Interview Coach",
+      "url": "https://exercises.bigleverinstitute.org/exercises/interview-coach.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/landing-page-brief",
+      "source_heading": "Resource: exercises/landing-page-brief",
+      "title": "Ex15 — Landing Page Brief",
+      "url": "https://exercises.bigleverinstitute.org/exercises/landing-page-brief.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/linkedin-profile-optimizer",
+      "source_heading": "Resource: exercises/linkedin-profile-optimizer",
+      "title": "Ex04 — LinkedIn Profile Optimizer",
+      "url": "https://exercises.bigleverinstitute.org/exercises/linkedin-profile-optimizer.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/negotiation-simulator",
+      "source_heading": "Resource: exercises/negotiation-simulator",
+      "title": "Ex03 — Negotiation Simulator",
+      "url": "https://exercises.bigleverinstitute.org/exercises/negotiation-simulator.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/presentation-from-notes",
+      "source_heading": "Resource: exercises/presentation-from-notes",
+      "title": "Ex17 — Presentation from Notes",
+      "url": "https://exercises.bigleverinstitute.org/exercises/presentation-from-notes.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/project-brain",
+      "source_heading": "Resource: exercises/project-brain",
+      "title": "Ex09 — Project Brain",
+      "url": "https://exercises.bigleverinstitute.org/exercises/project-brain.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/resume-tailorer",
+      "source_heading": "Resource: exercises/resume-tailorer",
+      "title": "Ex01 — Resume Tailorer",
+      "url": "https://exercises.bigleverinstitute.org/exercises/resume-tailorer.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/roadmap-builder",
+      "source_heading": "Resource: exercises/roadmap-builder",
+      "title": "Ex24 — Roadmap Builder",
+      "url": "https://exercises.bigleverinstitute.org/exercises/roadmap-builder.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/stakeholder-map-and-user-stories",
+      "source_heading": "Resource: exercises/stakeholder-map-and-user-stories",
+      "title": "Ex25 — Stakeholder Map and User Stories",
+      "url": "https://exercises.bigleverinstitute.org/exercises/stakeholder-map-and-user-stories.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/venture-problem-hypothesis",
+      "source_heading": "Resource: exercises/venture-problem-hypothesis",
+      "title": "Ex12 — Venture Problem Hypothesis",
+      "url": "https://exercises.bigleverinstitute.org/exercises/venture-problem-hypothesis.html"
+    },
+    {
+      "group": "Exercises",
+      "id": "exercises/workflow-library-builder",
+      "source_heading": "Resource: exercises/workflow-library-builder",
+      "title": "Ex22 — Workflow Library Builder",
+      "url": "https://exercises.bigleverinstitute.org/exercises/workflow-library-builder.html"
+    },
+    {
+      "group": "Everyday AI — Practical Examples",
+      "id": "paths/mc1-overview",
+      "source_heading": "Resource: paths/mc1-overview",
+      "title": "Everyday AI — Practical Examples — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc1-overview.html"
+    },
+    {
+      "group": "Everyday AI — Practical Examples",
+      "id": "paths/mc1-path",
+      "source_heading": "Resource: paths/mc1-path",
+      "title": "Everyday AI — Practical Examples — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc1-path.html"
+    },
+    {
+      "group": "Everyday AI — Practical Examples",
+      "id": "paths/mc1-transfer",
+      "source_heading": "Resource: paths/mc1-transfer",
+      "title": "Everyday AI — Practical Examples — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc1-transfer.html"
+    },
+    {
+      "group": "Everyday AI — Practical Examples",
+      "id": "paths/mc1-reference",
+      "source_heading": "Resource: paths/mc1-reference",
+      "title": "Everyday AI — Practical Examples — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc1-reference.html"
+    },
+    {
+      "group": "Startup Foundations",
+      "id": "paths/mc2-overview",
+      "source_heading": "Resource: paths/mc2-overview",
+      "title": "Startup Foundations — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc2-overview.html"
+    },
+    {
+      "group": "Startup Foundations",
+      "id": "paths/mc2-path",
+      "source_heading": "Resource: paths/mc2-path",
+      "title": "Startup Foundations — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc2-path.html"
+    },
+    {
+      "group": "Startup Foundations",
+      "id": "paths/mc2-transfer",
+      "source_heading": "Resource: paths/mc2-transfer",
+      "title": "Startup Foundations — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc2-transfer.html"
+    },
+    {
+      "group": "Startup Foundations",
+      "id": "paths/mc2-reference",
+      "source_heading": "Resource: paths/mc2-reference",
+      "title": "Startup Foundations — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc2-reference.html"
+    },
+    {
+      "group": "Digital Marketing",
+      "id": "paths/mc3-overview",
+      "source_heading": "Resource: paths/mc3-overview",
+      "title": "Digital Marketing — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc3-overview.html"
+    },
+    {
+      "group": "Digital Marketing",
+      "id": "paths/mc3-path",
+      "source_heading": "Resource: paths/mc3-path",
+      "title": "Digital Marketing — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc3-path.html"
+    },
+    {
+      "group": "Digital Marketing",
+      "id": "paths/mc3-transfer",
+      "source_heading": "Resource: paths/mc3-transfer",
+      "title": "Digital Marketing — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc3-transfer.html"
+    },
+    {
+      "group": "Digital Marketing",
+      "id": "paths/mc3-reference",
+      "source_heading": "Resource: paths/mc3-reference",
+      "title": "Digital Marketing — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc3-reference.html"
+    },
+    {
+      "group": "AI Tools and Workflows",
+      "id": "paths/mc4-overview",
+      "source_heading": "Resource: paths/mc4-overview",
+      "title": "AI Tools and Workflows — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc4-overview.html"
+    },
+    {
+      "group": "AI Tools and Workflows",
+      "id": "paths/mc4-path",
+      "source_heading": "Resource: paths/mc4-path",
+      "title": "AI Tools and Workflows — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc4-path.html"
+    },
+    {
+      "group": "AI Tools and Workflows",
+      "id": "paths/mc4-transfer",
+      "source_heading": "Resource: paths/mc4-transfer",
+      "title": "AI Tools and Workflows — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc4-transfer.html"
+    },
+    {
+      "group": "AI Tools and Workflows",
+      "id": "paths/mc4-reference",
+      "source_heading": "Resource: paths/mc4-reference",
+      "title": "AI Tools and Workflows — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc4-reference.html"
+    },
+    {
+      "group": "Coding for Shippers",
+      "id": "paths/mc5-overview",
+      "source_heading": "Resource: paths/mc5-overview",
+      "title": "Coding for Shippers — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc5-overview.html"
+    },
+    {
+      "group": "Coding for Shippers",
+      "id": "paths/mc5-path",
+      "source_heading": "Resource: paths/mc5-path",
+      "title": "Coding for Shippers — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc5-path.html"
+    },
+    {
+      "group": "Coding for Shippers",
+      "id": "paths/mc5-transfer",
+      "source_heading": "Resource: paths/mc5-transfer",
+      "title": "Coding for Shippers — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc5-transfer.html"
+    },
+    {
+      "group": "Coding for Shippers",
+      "id": "paths/mc5-reference",
+      "source_heading": "Resource: paths/mc5-reference",
+      "title": "Coding for Shippers — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc5-reference.html"
+    },
+    {
+      "group": "Prompting and Workflows",
+      "id": "paths/mc6-overview",
+      "source_heading": "Resource: paths/mc6-overview",
+      "title": "Prompting and Workflows — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc6-overview.html"
+    },
+    {
+      "group": "Prompting and Workflows",
+      "id": "paths/mc6-path",
+      "source_heading": "Resource: paths/mc6-path",
+      "title": "Prompting and Workflows — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc6-path.html"
+    },
+    {
+      "group": "Prompting and Workflows",
+      "id": "paths/mc6-transfer",
+      "source_heading": "Resource: paths/mc6-transfer",
+      "title": "Prompting and Workflows — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc6-transfer.html"
+    },
+    {
+      "group": "Prompting and Workflows",
+      "id": "paths/mc6-reference",
+      "source_heading": "Resource: paths/mc6-reference",
+      "title": "Prompting and Workflows — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc6-reference.html"
+    },
+    {
+      "group": "Product Thinking",
+      "id": "paths/mc7-overview",
+      "source_heading": "Resource: paths/mc7-overview",
+      "title": "Product Thinking — Overview and Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc7-overview.html"
+    },
+    {
+      "group": "Product Thinking",
+      "id": "paths/mc7-path",
+      "source_heading": "Resource: paths/mc7-path",
+      "title": "Product Thinking — Connected Exercise Path",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc7-path.html"
+    },
+    {
+      "group": "Product Thinking",
+      "id": "paths/mc7-transfer",
+      "source_heading": "Resource: paths/mc7-transfer",
+      "title": "Product Thinking — Transfer and Optional Reflection",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc7-transfer.html"
+    },
+    {
+      "group": "Product Thinking",
+      "id": "paths/mc7-reference",
+      "source_heading": "Resource: paths/mc7-reference",
+      "title": "Product Thinking — Reference at the Point of Need",
+      "url": "https://exercises.bigleverinstitute.org/paths/mc7-reference.html"
+    },
+    {
+      "group": "Reference",
+      "id": "glossary",
+      "source_heading": "Resource: glossary",
+      "title": "Glossary",
+      "url": "https://exercises.bigleverinstitute.org/glossary.html"
+    }
+  ],
+  "snapshot_date": "2026-10-17"
+}

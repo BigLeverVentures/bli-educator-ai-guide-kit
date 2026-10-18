@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-17",
+  "resources": [
+    {
+      "id": "email",
+      "title": "A clear volunteer invitation",
+      "group": "Useful writing",
+      "url": "https://example.org/learning/volunteer-invitation",
+      "source_heading": "Resource: email"
+    },
+    {
+      "id": "check",
+      "title": "Check a claim before sharing it",
+      "group": "Source judgment",
+      "url": "https://example.org/learning/check-a-claim",
+      "source_heading": "Resource: check"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "capabilities": {
+    "code_execution": "optional; only for tasks that need it",
+    "external_actions": "none",
+    "file_reading": "needed for bundled curriculum; otherwise paste relevant text",
+    "image_generation": "not required",
+    "web_research": "optional; verify sources when available"
+  },
+  "conversation_starters": [
+    "Help me with this task: [describe it].",
+    "Review my draft before changing it: [paste a redacted draft and its purpose]."
+  ],
+  "description": "Use for lesson help, research, explanations and critique of learner work. Help directly without requiring an intake or learning plan.",
+  "name": "Big Lever Institute — Guide Me",
+  "platform_status": {
+    "chatgpt": "authoring/package files; public distribution requires provider eligibility and review",
+    "claude": "repository package; new kit needs a native account smoke test",
+    "gemini": "experimental; not qualified for dependable student coaching"
+  }
+}
